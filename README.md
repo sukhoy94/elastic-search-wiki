@@ -2,4 +2,5 @@
 
 ### Useful links
 
-Runtime mappings - https://www.elastic.co/guide/en/elasticsearch/reference/current/runtime-mapping-fields.html
+* Runtime mappings - https://www.elastic.co/guide/en/elasticsearch/reference/current/runtime-mapping-fields.html
+* Sort script (sort context) - https://www.elastic.co/guide/en/elasticsearch/painless/current/painless-sort-context.html
